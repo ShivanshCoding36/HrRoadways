@@ -159,6 +159,7 @@ function Footer() {
                 { label: t("nav.about"), to: "/about" },
                 { label: t("nav.services"), to: "/services" },
                 { label: t("footer.privacy"), to: "/policy" },
+                { label: t("footer.terms"), to: "/terms" },
                 { label: t("affiliate.title"), to: "/affiliate" },
               ],
             },
@@ -240,3 +241,4 @@ function Footer() {
 }
 
 export default Footer;
+
